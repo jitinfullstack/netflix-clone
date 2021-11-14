@@ -4,7 +4,7 @@ https://netflix-clone-e23d2.web.app/
 
 ## ScreenShot
 
-https://github.com/jitinfullstack/netflix-clone/blob/master/React-App-Netflix-Clone-.png
+![React-App-Netflix-Clone-](https://user-images.githubusercontent.com/93995641/141672199-0529e405-8433-4e7a-b711-6e7fab8f0d62.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
